@@ -13,15 +13,6 @@ Aside from leading squads and running programmes, I enjoy building AI agents �
 - 🏗️ Operating model: *One person. Five rooms.* — engineering, coaching, photography, running, building
 - ⚡ Fun fact: I code-switch Thai-English mid-sentence and consider it a feature, not a bug 😅
 <br>
-
-### 🔥 Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<br>
-
 ### 🛠️ Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
