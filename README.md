@@ -1,4 +1,4 @@
-# Hi there 👋 I am Tae (Hatoriz)
+# Hi there 👋 I am Ath (Hatoriz)
 
 ---
 
