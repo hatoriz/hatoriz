@@ -12,18 +12,6 @@ Aside from leading squads and running programmes, I enjoy building AI agents �
 - 📫 How to reach me: **[add your email / LinkedIn here]**
 - 🏗️ Operating model: *One person. Five rooms.* — engineering, coaching, photography, running, building
 - ⚡ Fun fact: I code-switch Thai-English mid-sentence and consider it a feature, not a bug 😅
-
-<br>
-
-<div align="center">
-
-<!-- 🔧 Replace YOUR_GITHUB_USERNAME below with your actual GitHub handle -->
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hatoriz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatoriz&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
 <br>
 
 ### 🔥 Streak
